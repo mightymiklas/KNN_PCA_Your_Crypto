@@ -54,9 +54,6 @@ Miklas, Christopher.
 
 ## License
 
-MIT License
-
-Copyright (c) 2022 Christopher Miklas
 
 Open Sourced
 ---
