@@ -1,6 +1,6 @@
 # Cryptocurrency Clustering Analysis
 
-This analysis involves data cleaning, PCA (principal component analysis), and clustering analysis using K-Means to identify trends or clusters of data. 
+This analysis involves data cleaning, PCA (principal component analysis), and clustering analysis using K-Means to identify trends or clusters of data among crypto currencies. 
 
 
 ---
